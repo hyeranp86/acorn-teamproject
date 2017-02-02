@@ -3,11 +3,11 @@ package test;
 public class HelloJava {
 
 	public static void main(String[] args) {
-		// 1Â÷ commit ³»¿ë
+		// 1ì°¨ commit ë‚´ìš©
 		System.out.println("Hello Java :) ");
 		System.out.println("First Commit Work");
 		
-		// brench Ãß°¡ ³»¿ë
+		// brench ì¶”ê°€ ë‚´ìš© - ì¸ì½”ë”© 
 		System.out.println("Second Commit Work");
 	}
 
