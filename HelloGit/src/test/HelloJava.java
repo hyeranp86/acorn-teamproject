@@ -13,6 +13,8 @@ public class HelloJava {
 		// 지역저장소(Local File Storage) 내용 추가
 		System.out.println("Third Commit Work");
 		
-	}
+		// 원격저장소(Remote File Storage) 내용 추가
+		System.out.println("GitHub Update ~~");
 
+	}
 }
