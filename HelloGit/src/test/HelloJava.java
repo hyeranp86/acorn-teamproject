@@ -7,7 +7,7 @@ public class HelloJava {
 		System.out.println("Hello Java :) ");
 		System.out.println("First Commit Work");
 		
-		// brench 추가 내용 - 인코딩 
+		// brench 추가 내용 - 인코딩 방식 변환
 		System.out.println("Second Commit Work");
 	}
 
