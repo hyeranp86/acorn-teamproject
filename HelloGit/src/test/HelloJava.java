@@ -18,6 +18,7 @@ public class HelloJava {
 		
 		// 지역 & 원격 저장소 변경사항 병합 - 복습 ing
 		System.out.println("Forth Commit Work ~~");
+		System.out.println("4th GitHub Update ~~");
 
 	}
 }
