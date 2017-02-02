@@ -9,6 +9,9 @@ public class HelloJava {
 		
 		// brench 추가 내용 - 인코딩 방식 변환
 		System.out.println("Second Commit Work");
+		
+		// Remote File Storage - Test
+		System.out.println("GitHub Update ~~");
 	}
 
 }
