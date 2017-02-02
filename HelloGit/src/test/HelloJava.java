@@ -15,6 +15,9 @@ public class HelloJava {
 		
 		// 원격저장소(Remote File Storage) 내용 추가
 		System.out.println("GitHub Update ~~");
+		
+		// 지역 & 원격 저장소 변경사항 병합 - 복습 ing
+		System.out.println("Forth Commit Work ~~");
 
 	}
 }
